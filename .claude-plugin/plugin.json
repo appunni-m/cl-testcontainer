@@ -6,11 +6,8 @@
     "name": "Appunni M",
     "email": "31534711+appunni-m@users.noreply.github.com"
   },
-  "skills": [
-    {
-      "name": "testcontainer-python-async",
-      "path": "skills/testcontainer-python-async/SKILL.md",
-      "description": "Skills for writing tests using Python testcontainers with async support"
-    }
-  ]
+  "homepage": "https://github.com/appunni-m/cl-testcontainer",
+  "repository": "https://github.com/appunni-m/cl-testcontainer",
+  "license": "MIT",
+  "keywords": ["skills", "testcontainer", "best-practices"]
 }
