@@ -1,0 +1,16 @@
+{
+  "name": "testcontainer",
+  "description": "Test container management skill for Claude Code - helps with Docker test containers, setup, and testing workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "Appunni M",
+    "email": "31534711+appunni-m@users.noreply.github.com"
+  },
+  "skills": [
+    {
+      "name": "testcontainer-python-async",
+      "path": "skills/testcontainer-python-async/SKILL.md",
+      "description": "Skills for writing tests using Python testcontainers with async support"
+    }
+  ]
+}
